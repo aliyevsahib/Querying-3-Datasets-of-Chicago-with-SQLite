@@ -1,2 +1,2 @@
-# Querying-3-Datasets-about-Chicago-with-SQLite
+# Querying-3-Datasets-of-Chicago-with-SQLite
 Notebook-driven analysis across three Chicago datasets—Public Schools, Crime, and Socioeconomic—using Python (pandas), SQLite, and ipython-sql. Load CSVs → create tables, inspect with PRAGMA, clean types (percentages/dates), join on community-area keys, and answer queries on safety, attendance, crime patterns, and income disparities—reproducibly.
